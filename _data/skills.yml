@@ -1,33 +1,24 @@
 languages:
-  - item: Adobe Illustrator
-  - item: Adobe InDesign
-  - item: Adobe
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+  - item: Illustrator
+  - item: InDesign
+  - item: Premier Pro
+  - item: After Effects
+  - item: Photoshop
+  - item: Lightroom
+
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress`
-  - item: Timber
+  - item: Figma
+  - item: Adobe XD
+
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: html
+  - item: css
+
 
 design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: English
+  - item: Mandarin
+  - item: Malay
+
