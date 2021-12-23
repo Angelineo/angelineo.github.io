@@ -13,8 +13,8 @@ frameworks:
 
 
 tools:
-  - item: html
-  - item: css
+  - item: HTML
+  - item: CSS
 
 
 design:
