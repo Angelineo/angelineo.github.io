@@ -1,16 +1,16 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
+name: Angeline Neo
+title: Angeline Neoo | UI/UX designer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+url: https://angelineneo.me/
 baseurl: ''
-email: brittany.chiang@gmail.com
+email: anpy.angeline@gmail.com
 cover: https://bchiang7.github.io/img/og.png
 logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+resume: https://github.com/Angelineo/angelineo.github.io/blob/master/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: anpy.angeline@gmail.com
   - title: twitter
     url: https://twitter.com/bchiang7
   - title: instagram
@@ -18,9 +18,9 @@ social:
   - title: codepen
     url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/Angelineo/angelineo.github.io
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/angeline-neo/
 
 # Build settings
 markdown: kramdown
